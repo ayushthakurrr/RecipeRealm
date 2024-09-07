@@ -1,8 +1,17 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# RecipeRealm
 
-Currently, two official plugins are available:
+RecipeRealm is a React.js application built with Tailwind CSS that allows users to search for recipes, view detailed information about each recipe, and get inspired in the kitchen. The app fetches recipe data from an API and displays it with images and step-by-step instructions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+## Features
+
+- Search Bar: Quickly find recipes by searching for ingredients or dish names.
+- Recipe Details: View detailed information about each recipe, including images, ingredients, and cooking instructions.
+
+
+## Technologies Used
+- React.js: Front-end library for building user interfaces.
+- Tailwind CSS: Utility-first CSS framework for styling.
