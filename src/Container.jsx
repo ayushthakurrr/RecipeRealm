@@ -27,7 +27,7 @@ const Container = () => {
 
   return (
     <div className='flex flex-col justify-start items-center bg-[#5D001E]  h-screen w-full overflow-auto'>
-        <h1 className='font-bold text-4xl text-[#E3E2DF]'>Recipe Realm 🥘</h1>
+        <h1 className='font-bold text-4xl text-[#E3E2DF] my-4'>Recipe Realm 🥘</h1>
         <div>
             <input
                 className='my-3 outline-none rounded-md px-2 py-1'
